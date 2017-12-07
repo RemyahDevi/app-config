@@ -8,6 +8,6 @@ management:
 logging:
   level:
     io:
-      pivotal: DEBUG
+      pivotal: INFO
 
 quoteServiceURL: http://quote-service-dev.cfapps.io/quote
