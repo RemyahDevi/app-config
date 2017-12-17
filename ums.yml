@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ums
+
+logging:
+  level:
+    org:
+      springframework: INFO
